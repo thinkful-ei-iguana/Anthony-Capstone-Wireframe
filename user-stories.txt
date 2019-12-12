@@ -1,0 +1,17 @@
+-- Seller -- 
+1. As a seller I want to be able post a listing of my item.
+2. As a seller I want to be able to include a image, and description in my item listing.
+3. As a seller I want to be able to edit the details of my list after publishing it.
+4. As a seller I want to be able to delete my listing after publishing it.
+5. As a seller I want a way for people to contact me if they're interested in purchasing my item.
+6. As a seller I want to be able to see all of my item listings.
+7. As a seller I want to be able to make my own personal account and be able to login to it.
+
+-- Buyer -- 
+1. As a buyer I want to be able to search items by name.
+2. As a buyer I want to be able to search items by category.
+3. As a buyer I want to be able see a detailed version of item listings.
+
+-- Admin -- 
+1. As a admin I want to be able to delete postings.
+2. As a admin I want to be able to delete a users account.
